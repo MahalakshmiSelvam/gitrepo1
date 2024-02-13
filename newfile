@@ -1,2 +1,6 @@
 First image of my file
+<<<<<<< HEAD
 2nd image form master
+=======
+Second image from feature branch
+>>>>>>> feature
